@@ -1,0 +1,11 @@
+{
+  "modules" : { 
+    "meteo2"  : {
+      "description": "Station météorologique",
+      "version": "3.1",
+      "id": "2998998",
+      "day": "0",
+      "api_key": "400d0936f53953a8861b5c986d3277f7"
+    }
+  }
+}
